@@ -1,0 +1,2 @@
+.watermark { position: relative; }
+.watermark::after { position: absolute; bottom: 50; right: 50; content: "COPYRIGHT"; }
